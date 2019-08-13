@@ -1,2 +1,1 @@
-github "delba/Permission" "master"
-github "ReactiveX/RxSwift" ~> 3.0
+github "evdeve/Permission" "b538cee7152c14405a1583cb2462f6d323c79f13"
